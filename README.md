@@ -314,4 +314,5 @@ This setup provides:
 
 # Author
 
-DevOps Rust Deployment Example
+Latchu@DevOps
+Senior DevOps and Cloud Architect
